@@ -1,0 +1,13 @@
+url: ""
+
+# Build settings
+markdown: kramdown
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - Jenkinsfile
+  - README.md
+
+sass:
+  style: compressed

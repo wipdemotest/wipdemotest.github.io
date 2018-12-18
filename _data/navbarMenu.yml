@@ -1,0 +1,11 @@
+- title: "About"
+  slugID: intro
+
+- title: "Services"
+  slugID: services
+
+- title: "Projects"
+  slugID: projects
+
+- title: "Contact"
+  slugID: contacts

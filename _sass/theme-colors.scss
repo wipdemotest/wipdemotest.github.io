@@ -1,0 +1,122 @@
+@import "custom";
+
+/*
+This file contains all the theme colors for the template.
+
+Most values should reference the variables defined in custom.scss:
+    - $primary-color
+    - $secondary-color
+    - $text-color-default
+
+This includes:
+    - text colors
+    - background colors
+    - button colors
+*/
+
+// Color constants
+$white: #FFFFFF;
+$black: #000000;
+$transparent: transparent;
+$header-title-color: #666666;
+$header-menu-border: #D3DBE7;
+$default-description-color: rgba(0,0,0,0.87);
+$service-title-color: rgba(255,255,255,0.6);
+$footer-bg: #F9B96B;
+$text-color-default: rgba(0,0,0,0.6);
+
+$modal-close-button: $secondary-color;
+$modal-close-button-hover: $secondary-color-dark;
+$fab-color: $primary-color-dark;
+$fab-color-hover: $primary-color;
+
+$webform-text-color: $black;
+
+// Theme variables (no hard coded values below)
+$header-background-color: $white;
+$header-title-color: $header-title-color;
+$header-menu-border-color: $header-menu-border;
+$header-menu-color: $secondary-color;
+//On hover
+$header-menu-color-hover: $secondary-color-dark;
+
+//Navbar on mobile device
+$navbar-button-icon-color: $secondary-color;
+$navbar-menu-bg-color: $secondary-color;
+$navbar-menu-text-color: $white;
+//On button click
+$navbar-button-icon-color-hover: $white;
+
+
+$intro-background-color: $white;
+$intro-title-color: $primary-color;
+$intro-desc-color: $default-description-color;
+
+$intro-button-bg-color: $primary-color;
+$intro-button-border-color: $transparent;
+$intro-button-text-color: $white;
+//On Hover
+$intro-button-bg-color-hover: $primary-color-dark;
+$intro-button-border-color-hover: $primary-color-dark;
+$intro-button-text-color-hover: $white;
+
+
+
+$services-background-color: $secondary-color;
+$services-title-color: $white;
+$services-service-title-color: $service-title-color;
+$services-service-desc-color: $white;
+
+$services-service-button-border-color: $white;
+$services-service-button-bg-color: $transparent;
+$services-service-button-text-color: $white;
+//On Hover
+$services-service-button-border-color-hover: $secondary-color-dark;
+$services-service-button-bg-color-hover: $secondary-color-dark;
+$services-service-button-text-color-hover: $white;
+
+$projects-background-color: $white;
+$projects-title-color: $primary-color;
+$projects-project-title-color: $default-description-color;
+$projects-project-location-color: $text-color-default;
+
+$offer-background-color: $primary-color;
+$offer-text-color: $white;
+
+
+$contact-background-color: $primary-color;
+$contact-text-color: $white;
+$contacts-contact-title-color: $white;
+$contacts-contact-address-color: $white;
+$contacts-contact-text-color: $white;
+$contact-social-icons-color: $white;
+$contact-ssa-text-color: $white;
+
+$fab-border-color: $transparent;
+$fab-bg-color: $fab-color;
+$fab-text-color: $white;
+//On Hover
+$fab-border-color-hover: $fab-color-hover;
+$fab-bg-color-hover: $fab-color-hover;
+$fab-text-color-hover: $white;
+
+
+$footer-bg-color: $footer-bg;
+$footer-bg-overlay: rgba($white,0.15);
+$footer-text-color: $text-color-default;
+
+$modal-title-color: $primary-color;
+$modal-close-button-top-color: $secondary-color;
+
+$modal-close-button-color: $modal-close-button;
+$modal-close-button-color-hover: $modal-close-button-hover;
+$modal-content-header-color: $text-color-default;
+$modal-content-description-color: $text-color-default;
+
+$modal-button-bg-color: $secondary-color;
+$modal-button-border-color: $transparent;
+$modal-button-text-color: $white;
+//On Hover
+$modal-button-bg-color-hover: $secondary-color-dark;
+$modal-button-border-color-hover: $secondary-color;
+$modal-button-text-color-hover: $white;

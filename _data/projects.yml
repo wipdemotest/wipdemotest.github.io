@@ -1,0 +1,72 @@
+- title: LED Upgrade
+  preview_image: https://firebasestorage.googleapis.com/v0/b/gigday-sites.appspot.com/o/dev-images%2Fproject3.jpg?alt=media&token=c25bcd4a-9087-4b1e-9ae3-a2305f27f8ce
+  preview_image_alt: LED Upgrade Alt
+  photos:
+    - url: https://firebasestorage.googleapis.com/v0/b/gigday-sites.appspot.com/o/dev-images%2Fproject3.jpg?alt=media&token=c25bcd4a-9087-4b1e-9ae3-a2305f27f8ce
+      alt: LED Photo Alt
+  location: West Lake
+  month: September
+  year: 2018
+  description: |
+    Tech arrived on-time and performed the semi-annual inspection on both heat pumps and all 4 thermostats. They installed the original systems and I have used them ever since. They have been…
+  customer_name: Ron T.
+  customer_quote: Jason was very professional, showed up on time and did great work. I highly recomend him!
+
+- title: St. Edwards
+  preview_image: https://firebasestorage.googleapis.com/v0/b/gigday-sites.appspot.com/o/domains%2Felectrictx-com%2Fsteds_1.jpg?alt=media
+  preview_image_alt: St Eds Alt
+  photos:
+    - url: https://firebasestorage.googleapis.com/v0/b/gigday-sites.appspot.com/o/domains%2Felectrictx-com%2Fsteds_1.jpg?alt=media
+      alt: StEds1
+    - url: https://firebasestorage.googleapis.com/v0/b/gigday-sites.appspot.com/o/domains%2Felectrictx-com%2Fsteds_2.jpg?alt=media
+      alt: StEds2
+    - url: https://firebasestorage.googleapis.com/v0/b/gigday-sites.appspot.com/o/domains%2Felectrictx-com%2Fsteds_3.jpg?alt=media
+      alt: StEds3
+  location: Austin, TX
+  month: July
+  year: 2017
+  description: Complete renovation at St. Edwards
+  customer_name: John C.
+  customer_quote: Jason's team was phenomenal to work with.
+
+- title: Bath Remodel
+  preview_image: https://firebasestorage.googleapis.com/v0/b/gigday-sites.appspot.com/o/dev-images%2Fproject4.jpg?alt=media&token=f26a541f-ba0e-4c05-99ed-f8b09146a39e
+  preview_image_alt:
+  photos:
+    - url:
+      alt:
+  location: Tarrytown
+  month: July
+  year: 2018
+  description: |
+    Tech arrived on-time and performed the semi-annual inspection on both heat pumps and all 4 thermostats. They installed the original systems and I have used them ever since. They have been…
+
+
+- title: Solar Array
+  preview_image: https://firebasestorage.googleapis.com/v0/b/gigday-sites.appspot.com/o/dev-images%2Fproject5.jpg?alt=media&token=f51b6e09-a7af-4e26-bdb9-1c9c4a7cd1e8
+  preview_image_alt:
+  photos:
+    - url:
+      alt:
+  location: West Lake
+  month: September
+  year: 2018
+  description: |
+    Tech arrived on-time and performed the semi-annual inspection on both heat pumps and all 4 thermostats. They installed the original systems and I have used them ever since. They have been…
+  customer_name: Ron T.
+  customer_quote: Jason was very professional, showed up on time and did great work. I highly recomend him!
+
+- title: Panel Upgrade
+  cover_image: https://firebasestorage.googleapis.com/v0/b/gigday-sites.appspot.com/o/dev-images%2Fproject2.jpg?alt=media&token=104d147f-e770-424d-ac5a-56dc6dcd18b8
+  preview_image: https://firebasestorage.googleapis.com/v0/b/gigday-sites.appspot.com/o/dev-images%2Fproject6.jpg?alt=media&token=baa360d9-5abd-4309-adc1-4aa10698137b
+  preview_image_alt:
+  photos:
+    - url:
+      alt:
+    - url:
+      alt:
+  location: Tarrytown
+  month: July
+  year: 2018
+  description: |
+    Tech arrived on-time and performed the semi-annual inspection on both heat pumps and all 4 thermostats. They installed the original systems and I have used them ever since. They have been…

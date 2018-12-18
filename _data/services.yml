@@ -1,0 +1,39 @@
+- title: Lighting
+  preview_image: https://firebasestorage.googleapis.com/v0/b/gigday-sites.appspot.com/o/dev-images%2Fproject3.jpg?alt=media&token=c25bcd4a-9087-4b1e-9ae3-a2305f27f8ce
+  preview_image_alt: Lighting Alt
+  short_description: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+  long_description: |
+    Tech arrived on-time and performed the semi-annual inspection on both heat pumps and all 4 thermostats. They installed the original systems and I have used them ever since. They have been.
+  photos:
+    - url: https://firebasestorage.googleapis.com/v0/b/gigday-sites.appspot.com/o/dev-images%2Fproject1.jpg?alt=media&token=eb70b4f5-8164-4100-9317-16ea6036e86c
+      alt: Lighting Photo Alt
+
+- title: EV Panels
+  preview_image: https://firebasestorage.googleapis.com/v0/b/gigday-sites.appspot.com/o/dev-images%2Fproject4.jpg?alt=media&token=f26a541f-ba0e-4c05-99ed-f8b09146a39e
+  preview_image_alt: EV Panels Alt
+  short_description: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+  long_description: |
+    Tech arrived on-time and performed the semi-annual inspection on both heat pumps and all 4 thermostats. They installed the original systems and I have used them ever since. They have been…
+  photos:
+    - url: https://firebasestorage.googleapis.com/v0/b/gigday-sites.appspot.com/o/dev-images%2Fproject2.jpg?alt=media&token=104d147f-e770-424d-ac5a-56dc6dcd18b8
+      alt:
+
+- title: Smart Home
+  preview_image: https://firebasestorage.googleapis.com/v0/b/gigday-sites.appspot.com/o/dev-images%2Fproject5.jpg?alt=media&token=f51b6e09-a7af-4e26-bdb9-1c9c4a7cd1e8
+  preview_image_alt: Smart Home Alt
+  short_description: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+  long_description: |
+    Tech arrived on-time and performed the semi-annual inspection on both heat pumps and all 4 thermostats. They installed the original systems and I have used them ever since. They have been…
+  photos:
+    - url: https://firebasestorage.googleapis.com/v0/b/gigday-sites.appspot.com/o/dev-images%2Fproject1.jpg?alt=media&token=eb70b4f5-8164-4100-9317-16ea6036e86c
+      alt:
+
+- title: Smart Home 2
+  preview_image: https://firebasestorage.googleapis.com/v0/b/gigday-sites.appspot.com/o/dev-images%2Fproject6.jpg?alt=media&token=baa360d9-5abd-4309-adc1-4aa10698137b
+  preview_image_alt: Smart Home 2 Alt
+  short_description: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+  long_description: |
+    Tech arrived on-time and performed the semi-annual inspection on both heat pumps and all 4 thermostats. They installed the original systems and I have used them ever since. They have been…
+  photos:
+    - url: https://firebasestorage.googleapis.com/v0/b/gigday-sites.appspot.com/o/dev-images%2Fproject1.jpg?alt=media&token=eb70b4f5-8164-4100-9317-16ea6036e86c
+      alt:

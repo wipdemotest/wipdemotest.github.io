@@ -1,0 +1,30 @@
+name: Electrical Solutions of Texas
+owner: Jason Cook
+photo: https://firebasestorage.googleapis.com/v0/b/gigday-sites.appspot.com/o/dev-images%2Fintro-image.jpg?alt=media&token=0a08d490-eaca-46b5-b288-e541de441018
+photo_alt: Jason Cook
+tagline: Hello, I'm Jason Cook
+description: |
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras et nulla placerat, tincidunt nisi id, cursus nulla. Duis ornare quis quam nec pulvinar. Sed volutpat egestas orci ac consequat. Sed felis velit, efficitur sed pulvinar vel, interdum vel diam.
+  
+  Duis lacus nisl, rhoncus id nisl nec, cursus blandit turpis. Aenean semper, dui vitae aliquam suscipit, est ligula tempus nibh, eget placerat massa justo vel lorem.
+
+locations:
+  - name:
+    address: 701 Brazos
+    city: Austin
+    state: TX
+    phone: (312) 555-5479
+    email: jason@electricalSolutionsOfTexas.com
+hasSocialMedia: true
+facebook: https://www.facebook.com/electicalSolutionsOfTexas/
+twitter: https://twitter.com/
+instagram:
+youtube:
+icon-links:
+  - icon: https://firebasestorage.googleapis.com/v0/b/gigday-sites.appspot.com/o/shared%2FangiesSSA.png?alt=media&token=c8d29ff6-ac9b-4e51-a71a-443054d871d1
+    icon_alt: Angie's Super Servce Award
+    text: Angie's Super Servce Award
+    link: https://www.angieslist.com/
+  - icon: https://firebasestorage.googleapis.com/v0/b/gigday-sites.appspot.com/o/shared%2FbbbLogo-light.png?alt=media&token=3c23131c-bcdc-4b8f-9cb9-7eddaebe6825
+    icon_alt: Better Business Bureau
+    link: https://www.bbb.org

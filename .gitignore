@@ -1,0 +1,11 @@
+# Jekyll
+_site/
+.jekyll-cache/
+.jekyll-metadata
+.sass-cache/
+
+# Microsoft Visual code
+.history/
+.DS_Store
+.idea/
+Gemfile.lock

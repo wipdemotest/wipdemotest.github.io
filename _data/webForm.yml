@@ -1,0 +1,97 @@
+startMessage:
+endMessage: Thanks {name}! We will have someone {contact} you soon!
+questionList:
+  - placeholder: What is your name?
+    id: name
+    type: text
+    label: Full Name
+    name: name
+
+  - placeholder: Hi {name}, what kind of service are you looking for?
+    type: radio
+    multipleData:
+      - value: ev-charging
+        label: EV Charging
+        name: service
+        type: radio
+
+      - value: lighting
+        label: Lighting
+        name: service
+        type: radio
+
+      - value: remodel
+        label: Remodel  
+        name: service
+        type: radio
+
+      - value: other
+        label: Other
+        name: service
+        type: radio
+
+  - placeholder: Can you tell me a little more about your {service} needs?
+    type: text
+    label: info
+    name: description
+
+  # - placeholder: What timeframe are you looking for?
+  #   type: radio
+  #   multipleData:
+  #     - value: today
+  #       label: Today
+  #       name: timeframe
+  #       type: radio
+
+  #     - value: tomorrow
+  #       label: Tomorrow
+  #       name: timeframe
+  #       type: radio
+
+  #     - value: week
+  #       label: This week
+  #       name: timeframe
+  #       type: radio
+
+  #     - value: month
+  #       label: This month
+  #       name: timeframe
+  #       type: radio
+      
+  #     - value: unknown
+  #       label: Unknown
+  #       name: timeframe
+  #       type: radio
+
+  - placeholder: "{name}, what's the best way to follow up with more information?"
+    id: contact
+    type: radio
+    multipleData:
+      - value: call
+        label: Call
+        name: contact
+        type: radio
+
+      - value: text
+        label: Text
+        name: contact
+        type: radio
+
+      - value: email
+        label: Email
+        name: contact
+        type: radio
+
+  - placeholder: Please enter your phone number
+    type: text
+    label: Phone Number
+    name: phone
+    conditional: contact
+    conditionalValue: call||text
+
+  - placeholder: Please enter your email address
+    type: text
+    label: Email Address
+    name: email
+    conditional: contact
+    conditionalValue: email

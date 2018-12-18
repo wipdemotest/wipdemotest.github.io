@@ -1,0 +1,43 @@
+<div class="top-bar"></div>
+<nav class="navbar navbar-expand-lg navbar-expand-md navbar-light">
+    <div class="container-fluid default-container-width default-container-gutter">
+        <button id="icon-transition" class="navbar-toggler" type="button" data-toggle="collapse" data-target="#cbp-spmenu-s1" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span></span>
+            <span></span>
+            <span></span>
+            <span></span>
+        </button>
+        <div class="navbar-left">
+            {% if site.data.site.header_image !=null %}
+            <img class="navbar-brand-image" src="{{ site.data.site.header_image }}" alt="{{ site.data.site.header_image_alt }}" />
+            {% endif %}
+            {% if site.data.site.header_title !=null %}
+            <a class="navbar-brand" href="#">{{ site.data.site.header_title }}</a>
+            {% endif %}
+            <div class="collapse navbar-collapse  cbp-spmenu cbp-spmenu-vertical cbp-spmenu-left" id="cbp-spmenu-s1">
+                <button id="close-navbar-button" class="navbar-toggler" type="button" data-toggle="collapse" data-target="#cbp-spmenu-s1" aria-controls="navbarNav" aria-expanded="true" aria-label="Toggle navigation">
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                </button>
+                <ul  class="navbar-nav ml-auto">
+                    {% for menu in site.data.navbarMenu %}
+                    <li class="nav-item">
+                        <a class="nav-link" href="#{{ menu.slugID }}">{{ menu.title }}</a>
+                    </li>
+                    {% endfor %}
+                </ul>
+            </div>
+        </div>
+        <div class="d-none collapse navbar-collapse">
+            <ul class="navbar-nav ml-auto">
+                {% for menu in site.data.navbarMenu %}
+                <li class="nav-item">
+                    <a class="nav-link" href="#{{ menu.slugID }}">{{ menu.title }}</a>
+                </li>
+                {% endfor %}
+            </ul>
+        </div>
+    </div>
+</nav>

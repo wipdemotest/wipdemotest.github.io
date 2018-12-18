@@ -1,0 +1,18 @@
+<div class="container-fluid">
+    <div class="row">
+        <div class="intro-container d-block d-md-none col-12">
+            <h1 class="intro-header ">{{ site.data.company.tagline }}</h1>
+        </div>
+        <div class="col-xl-3 col-lg-3 col-md-3 col-sm-4 col-12 left-section">
+            <div class="intro-image-container">
+                <img data-src="{{site.data.company.photo}}" class="img-fluid d-block rounded-circle intro-image lazy" alt="{{ site.data.company.photo_alt}}"/>
+            </div>
+        </div>
+        <div class="col-xl-9 col-lg-9 col-md-9 col-sm-8 col-12 right-section">
+            <div class="intro-container">
+                <h1 class="intro-header d-md-block d-none">Hello, I’m {{ site.data.company.owner }}</h1>
+                <p class="intro-description">{{ site.data.company.description }}</p>
+            </div>
+        </div>
+    </div>
+</div>
